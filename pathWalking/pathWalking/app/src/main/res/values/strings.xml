@@ -1,0 +1,241 @@
+<resources>
+    <string name="app_name">PathWalkings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //Login page
+    <string name="login_email">Email Giriniz…</string>
+    <string name="login_pasword">Şifre Giriniz…</string>
+    <string name="login">GİRİŞ YAP</string>
+    <string name="signupLogin">ÜYE OL</string>
+    //Sign Up Page
+    <string name="signup_email">Email Giriniz…</string>
+    <string name="signup_password">Şifre Giriniz…</string>
+    <string name="signup_passwordagain">Tekrar Şifre Giriniz…</string>
+    <string name="signup">ÜYE OL</string>
+    <string name="camp">Bu yol üzerinde kamp yapılacak alanlar mevcuttur kamp için gerekli olan eşyalar:
+        -Yürüyüş Botu,
+        -Sırt Çantas,
+        -Baton,
+        -Yağmurluk,
+        -Kafa Lambası
+        -Kamp Çadırı
+        -Uyku Matı
+        -Uyku Tulumu
+    </string>
+
+    //Forgot page
+    <string name="forgot">Email Giriniz...</string>
+
+    //Tittle
+    <string name="likya">LİKYA YOLU</string>
+
+    //Description
+    <string name="likyadesc1">
+        Likya Yolu, Fethiye\'den başlayarak Antalya\'ya kadar uzanan ve tarihte Likya olarak adlandırılan
+        Teke yarımadasındaki patikalardan bir kısmının işaretlenip haritalanması ile oluşturulmuş bir yürüyüş
+        rotasıdır.Likya yolunun uzunluğu 500 kilometre  fazladır. Bu yol, Fethiye, Ovacık yakınındaki Hisarönü\'ünden
+        başlayıp Antalya\'dan yaklaşık 20 km  uzaktaki Konyaaltı, Geyikbayırı\'na kadar gider.Yol, adını bir zamanlar
+        bölgeyi yöneten eski uygarlıktan almıştır.Çeşitli kaynaklarca dünyanın en iyi 10 uzun mesafe yürüyüş rotasından
+        biri olarak gösterilir. Parkur üzerinde yer alan Gelidonya Feneri manzarası 2007 yılında Türkiye\'nin en güzel
+        manzarası seçilmiştir.Likya Yolu yürüyüşü yapmak isterseniz, en çok
+        gezilen etapların başında Likya Yolu başlangıç noktası ile Kelebekler Vadisi arasındaki bu rotakarşınıza çıkar.
+
+Ovacık Faralya arası kaç km diye merak edenlere belirtelim:
+        Ovacık- Kozağaç 6km, Kozağaç – Kirme 3 km, Kirme- Faralya 3km olarak görünen bu rota 12 km civarındadır.
+    </string>
+    <string name="likya2">
+
+    </string>
+
+    <string name="aladaglar">
+        Akdeniz Bölgesi\’nde, Niğde, Kayseri, Adana illeri sınırları içinde Aladağlar üzerinde yer almaktadır.Aladağlar\'da
+        güney kısımda Akdeniz İklimi, kuzey kısımlarında Karasal iklim hakimidir. Güney bölümde kızılçam, sedir, karaçam,
+        Toros göknarı yaygındır. Kuzey yamaçlarda, İran-Turan bitki topluluğuna ait bozkır türleri yaygındır. Kuzey bölümlerde
+        insan baskısıyla Antropojen bozkır alanları artmaktadır.En yüksek doruğu 3771 metre yüksekliğindeki Kızılkaya\'dır.
+        Aladağlar\'da, tırmanışlar için 3700 metre üzerinde dört doruğun yanı sıra 3500 metrenin üzerinde 50\'den fazla doruk vardır.
+        Bu doruklar Niğde il sınırları içinde devam eden Toros dağ kıvrımlarının (Orta Toroslar) en yüksek doruklarıdır.
+    </string>
+    <string name="frig_vadisi">
+        Kütahya, Afyonkarahisar, Eskişehir üçgeninde, \‘phrygia Epiktetus\’ (Küçük Frigya) dağlık yerleşimi olarak
+        tanımlanan bölge, bugün \‘Frig Vadisi\’ adıyla anılmaktadır. İl sınırları içerisinde, merkeze 7 kilometre
+        uzaklıktaki Yeni Bosna Köyü\'nden başlayıp, Kütahya\'ya 54 kilometre uzaklıktaki Ovacık Köyü\'ne kadar ilin
+        doğusu boyunca uzanan alan; Sabuncupınar, Söğüt, İnli, Sökmen, Fındık ve İncik mağaralarının bulunduğu kuzey bölüm
+        ile daha güneydeki Ovacık köyü, İnlice Mahallesi ve çevresini kapsar.
+    </string>
+    <string name="agri_dagi">
+        Ağrı Dağı, 5.137 metrelik rakımıyla, Türkiye\'nin en yüksek dağıdır. Ağrı Dağı, Türkiye\'nin doğu ucunda,
+        İran\'ın 16 kilometre batısında ve Ermenistan\'ın 32 kilometre güneyindedir.
+        Dağın %65\'lik bir kesimi Iğdır ilinde, kalan %35\'lik kesimi ise Ağrı ili sınırları içerisindedir.
+        Ağrı Dağı 5137 m\'lik yüksekliği ile sadece ülkenin en yüksek zirvesi olmayıp aynı zamanda üzerinde
+        10 km²lik güncel bir buz takkesi (ice cap) bulunduran tek dağıdır.Zirvesi dört mevsim boyunca erimeyen
+        kar ve takke buzulu ile kaplı volkanik bir dağ olan Ağrı Dağı\’nın doruğundaki örtü buzul Türkiye\'nin en büyük buzuludur.
+    </string>
+    <string name="ihlara_vadisi">
+        Belde, Aksaray il merkezine 45 km, Güzelyurt ilçe merkezine 15 km uzaklıktadır.
+        Ihlara Vadisi, Hasandağı volkanından püskürtülen lavların akarsu aşındırması sonucunda
+        oluşan kanyon vadidir. Melendiz Çayı, milyonlarca yıllık bir sürecin sonunda, 14 kilometre
+        uzunluğunda ve yüksekliği yer yer 110 metreye ulaşan kanyon görünümlü bu vadiyi meydana getirmiştir.
+        Bu çatlaklardan yol bulan kanyonun bugünkü halini almasını sağlayan Melendiz Çayı\'na ilk çağlarda Kapadokya
+        Irmağı anlamına gelen "Potamus Kapadukus" denilmekteydi.
+          14 km uzunluğundaki vadi Ihlara\'dan başlar, Selime\'de son bulur.
+    </string>
+
+    <string name="kackar_dagi">
+        Kaçkar Dağları, Türkiye\'nin kuzeyinde, Doğu Karadeniz sahili boyunca uzanan bir dağ sırası.
+        Kuzey Anadolu Dağları\'nın doğudaki bölümünü oluşturur. Doğusundaki birçok zirvesi 3500 m üzerindeyken,
+        batı kesimi 2000 m yüksekliğe kadar ulaşır. En yüksek noktası olan Kaçkar Kavrun Dağı 3932 m yüksekliktedir.
+        Kaçkar Dağları; dağcılık, kaya tırmanışı, trekking, rafting ve kayak gibi sporlar için bir merkez haline dönüşmüştür.
+        Bölgenin kendine özgü doğası ve kültürel yapısı, çok sayıda yerli ve yabancı turisti çekmektedir. Dağların önemli bir
+        bölümü doğal park sınırları içinde yer almaktadır.
+
+         Kaçkar Dağları başlıca üç bölüme ayrılır:
+        1.Batıda Verçenik Dağı ve çevre zirveler
+        2.Merkezde Kavrun Dağları
+        3.Doğuda Altıparmak Dağları
+
+        Merkez grupta yer alan Kaçkar Dağı zirvesi, 3.937 m\'lik irtifasıyla Türkiye\'nin 4. yüksek dağıdır.
+        Kaçkar dağının zirvesi Artvin ili Yusufeli ilçe sınırları içindedir. Sıradağlar üzerinde 3.500 m\'nin
+        üzerinde yüksek başka zirveler de vardır.
+    </string>
+
+    <string name="suluklu_gol">
+        Sülüklü Göl, Bolu ili, Mudurnu ilçesine bağlı Tavşansuyu köy sınırları içinde bulunan ve tektonik hareketler sonucunda
+        oluşmuş bir heyelan set gölüdür. Akyazı, Mudurnu ve Göynük ilçe topraklarına sınırı vardır.
+    </string>
+    <string name="cilo_dagi">
+        Cilo (Buzul) Dağı Türkiye\’nin 2. en yüksek dağıdır. Zirvesi dört mevsim boyunca erimeyen kar ve buz örtüsü ile kaplı tektonik
+        bir dağ olan Cilo Dağı Güneydoğu Toroslar\’ın en doğu uzantısını oluşturur. Türkiye\’nin güneydoğu ucunda, Hakkâri ilinin
+        sınırları içerisinde yer almaktadır.
+        Cilo Dağı 4135 metrelik rakımıyla Türkiye\’nin ikinci yüksek doruğudur. Cilo Dağı\’nın önemli yüksek zirveleri arasında
+        Uludoruk (Reşko-4135m), Suppa Durek (Erinç-4060m), Köşedireği Dağı (3700m), Kisara Dağı (3500m), Maunseli Sivrisi
+        (3850m), Gelyona tepesi (3650m) yer alır.
+    </string>
+
+    <string name="buyukada">
+        Tarihi boyunca Rum ve Türk kültürlerinin özellikleri ile harmanlandığı Büyükada\'nın gezilecek yerleri,
+        görülecek güzellikleri masmavi denizin ve yemyeşil ağaçların içinde bizleri beklemektedir. Eski adı Prinkipos olan
+        Büyükada iki tepenin arasında kalan, tarih boyu ünlü devlet adamlarının sürgün edildiği, Türk ve Rum aydınlara ev
+        sahipliği yapmıştır. Yüzölçümü 5,4 kilometrekaredir.Adalar\'da, biri güney, diğeri kuzeyde olmak üzere iki tepe bulunur.
+        Güneydeki tepe, 203 metre yükseklikteki Yücetepe\'dir. Kuzeydeki tepe ise isa Tepesi\'dir. Ada\'nın en yüksek tepesinde
+        Aya Yorgi kilise ve manastırı bulunmaktadır.
+    </string>
+    
+    <string name="belemedik">
+        Yürüyüş Çakıt Vadisi\’ne paralel giden, Almanların toroslardaki tren hattı tünellerini yapmak 
+        için kullandıkları servis yolu üzerinden yapılıyor.
+Belemedik – Hacıkırı (Kıralan) Çakıt Vadisi Kamp Alanı Etrafı dik dağlarla çevrili olan Pozantı ilçesi
+        sınırları içerisinde yer almaktadır. Pozantı ilçesi Adanaya yaklaşık 100 kilometre uzaklıkta yer almakta.
+Yemyeşil doğaya sahip vadide, masmavi gökyüzünün ve doğanın kalbinde kamp yapabilirsiniz.
+Ücretsiz girebileceğiniz vadide duş, tuvalet ve çeşme gibi kamp olanakları maalesef yok. Yiyecek-içecek 
+        alışverişinizi gelmeden önce Pozantı\’da yapmanız tavsiye edilir.
+    </string>
+    
+    <string name="kapikaya_kanyonu">
+        Karaisalı İlçesi sınırları içerisinde Kapıkaya Köyü\’nde yer alan
+        Kapıkaya Kanyonu, Adana\’ya 72 kilometre, Karaisalı İlçe Merkezi\'ne 
+        5 kilometre uzaklıkta yer almaktadır. Yaklaşık 200 metre yüksekliğinde olan kanyonun
+        ortasından Niğde-Ulukışla\’dan doğan Çakıt Çayı geçmektedir. Kapıkaya Kanyonu doğa yürüyüşü
+        , yamaç tırmanışı ve fotoğraf meraklılarının mutlaka görmeleri gereken doğal bir güzelliktir
+        . 7 bin 250 metre yürüyüş güzergahı bulunan kanyonun 400 metresinde güvenlik amaçlı korkuluk bulunmaktadır.
+    </string>
+    
+    <string name="akdag_yuruyusu">
+        Elmalı, Fethiye ve Kaş ilçeleri arasında heybetle yükselen,
+        Beydağlarının bir kolu olarak da uzanan, Akdeniz bölgesinde yükselen
+        ve Kızlar Sivrisinden sonraki en yüksek dağımızdır. Kayıtlarda 3024
+        metre yükseklikte olduğu geçen Akdağ çevresinde oldukça çok sayıda yayla
+        ve göller bulunmaktadır. Yemyeşil ve düz yaylalar halen özelliklerini koruyabilmiş iken, göllerin
+        pek çoğu küresel ısınma sonucunda kurumuştur. Halen Yeşil Göl, İkiz Göl, Girdev Gölü ve Baranda Göllerinde su bulunmaktadır.
+    </string>
+
+    <string name="ovacik_yuruyusu">
+        Akdeniz bölgesi, Serik ilçe sınırları içerisinde bulunan ve resmi kayıtlara göre 2004 metre
+        yüksekliğinde ki bir dağdır. Serik ilçesinin kuzeyinde yer almaktadır. Arkasında ki heybetle
+        yükselen Bozburun dağı dikkatleri üzerine çekerek Ovacık Dağını gölgelemektedir. Ovacık Dağına bir
+        kaç noktadan ulaşım sağlamak mümkündür. Antalya yönünden en kolay, Serik yolunun yaklaşık 35. kilometresinden
+        Çandır istikametine dönülerek, Çandır, Gökçepınar ve Etler Köyleri üzerinden Ovacık Dağı\'nın batı yönünde ki yaylalara ulaşım mümkündür.
+        Ancak daha keyifli ve manzarası güzel olan Yumaklar Köyü istikametinden ulaşım sağlanmıştır.
+    </string>
+    <string name="gokceada">
+        Gökçeada,Çanakkale\'nin bir ilçesi ve Türkiye\'nin en büyük adasıdır. Ege Denizi\'nin kuzeyinde,
+        Saros Körfezi girişinde yer almaktadır. 91 km kıyı şeridine sahiptir. Adanın batısında yer alan İncirburnu Türkiye\'nin
+        de en batı noktasını oluşturmaktadır.Gökçeada, Türkiye\'de 2016 itibarıyla 11 tane olan "sakin kent"lerden (Cittaslow) birisidir
+    </string>
+    <string name="dilek_yarimadasi">
+        Ege Bölgesi\’nde Aydın\’ın Kuşadası ve Söke ilçeleri sınırları içerisinde yer alan milli parka,
+        Kuşadası–Söke karayolu ile ulaşılır.
+        Doğa yürüyüşlerinde Milli Park\’ın eşsiz bitki örtüsünü,
+        dereleri, havuzları, şelaleleri ve doğa manzaralarını keşfetme imkanı bulabilirler.Söke üzerinden
+        Güllübahçe yönüne devam edip, oğanbey köyüne geçilip 60-70 dakikalık bir otobüs yolculuğundan sonra eski
+        Doğanbey köyüne varılır. Menderes Deltası\’na 2-3 km\’lik bir uzaklıkta deniz seviyesinden 60-70 m. yükseklikte,
+        bölgeye hâkim bir konumdadır. Köyde, Milli Park Müdürlüğünün bir tesisi bulunmaktadır.Kuzeyde Menderes Deltası,
+        Bafa Gölü, Milet antik kenti, Beşparmak Dağları, Myus ve Azap Gölü görülebilir. Dağın güney yamacı ormanlıktır.
+    </string>
+    <string name="heybeliada">
+        Heybeliada, 85 metre yüksekliğindeki Ümit Tepesi, 136 metre yükseklikteki Değirmen Tepesi,
+        128 metre yükseklikteki Köy Tepesi ve 98 metre yükseklikteki Baltacıoğlu Tepesi isimli dört
+        tepesi ve tepeler arasında kalan vadileri ve plajları ile öne çıkıyor.Adada;
+        Heybeliada Deniz Lisesi, Bet Yaakov Sinagogu, Aya Triada Manastırı ve Heybeliada Sanatoryumu
+        gibi kültürel yapılar bulunmaktadır.
+    </string>
+    <string name="belgrad">
+        Belgrad Ormanı, Çatalca Yarımadası\'nın en doğu ucunda, İstanbul ilinin Avrupa Yakası\'nda yer
+        alan doğal oluşumlu ağaçlık bölgedir.Doğusunda İstanbul Boğazı, kuzeyinde ise Karadeniz doğal
+        sınırlarıdır.Denizden yüksekliği fazla olmamasına karşın yoğun yağış alan bir bölge olan Belgrad Ormanı,
+        Orta Avrupa ve Akdeniz iklimleri arasında geçiş özelliği göstermektedir.
+    </string>
+    <string name="polenezkoy">
+        İstanbul\’un il tabiat parkı olma özelliğini taşıyan bu yer 1994 yılında tabiat parkı olarak ilan edilmiştir.
+        Yaklaşık 3000 hektar alanı kaplayan park, günümüzde İstanbul\’un en büyük tabiat parkı olma özelliğini de taşımaktadır
+        .Park içerisinde günübirlik kullanıma uygun piknik alanları, kamp alanları, bisiklet ve yürüyüş/koşu yolları bulunmaktadır.
+        Park pek çok yabani hayvana ev sahipliği yapmaktadır.
+Park aynı zamanda bitki çeşitliliği bakımından da oldukça zengindir.
+    </string>
+    <string name="botan_vadisi">
+        Botan Vadisi, Türkiye\'nin Siirt ili sınırları içerisinde bulunan millî park
+        statüsündeki tarihî alan. Bitlis\'in güneyindeki yüksek dağların eteklerinden
+        kaynağını alan Botan Nehri batıya doğru akarken kendine derin bir vadi oluşturur. Bu Botan Vadisi\'dir.
+        Türkiye\'nin en dik ve sarp vadilerinden biri olan Botan güneyde Siirt\'e doğru uzanırken
+        2741 metre yüksekliğindeki Doğruyol ve 2631 metrelik Kapılı Dağı\'nın arasından geçer ve Dicle Vadisi\'ne açılır.
+    </string>
+    <string name="dara_antik_kenti">
+        Mezopotamya\'nın en önemli yerleşim yerlerinden birisi olan Dara,4 kilometrelik alana yayılmış sur yapıları
+        İç kale, kentin kuzeyinde ve 50 metre yüksekliğindeki tepenin üst düzlüğüne kurulmuştur.Mezopotamya ovası ile
+        Tur-Abdin Dağlarının birleştiği yerde kireçtaşı ana kaya üzerinde kurulan kent Kaya içine oyulan yapılardan oluşmuş
+        ve geniş bir alana yayılmıştır.Kent içinde kilise, çarşı, zindan, tophane, mahsen ve su bendi kalıntıları halen
+        görülebilmektedir. Ayrıca köyün etrafında tarihleri Geç Roma Dönemi\’ne
+        kadar görülen ve mezar olarak bir dönem kullanılan günümüzde ise mağara görünümünü alan alanlardan oluşmaktadır.
+    </string>
+    <string name="diyarbakir_surlari">
+        Diyarbakır Kalesi veya Diyarbakır surları, Diyarbakır\'ın Sur ilçesinde yer alan tarihî bir yapı.
+        İç kale ve dış kale olmak üzere iki bölümden oluşmaktadır.Surlardaki ana girişler Dağ Kapı (Harput Kapısı),
+        Urfa Kapı (Rum Kapısı), Mardin Kapı (Tell Kapı)
+        ve Yeni Kapı (Dicle-Irmak-Şat Kapı)\'dır.Surlar, İç ve Dış Kale olmak üzere iki bölümden oluşmaktadır.
+    </string>
+    <string name="hasankeyf">
+        Hasankeyf, Batman ilinin ilçesidir. İki yakasını Dicle\'nin ayırdığı, tarihi bir ilçedir.Kalkerli
+        yapısı nedeniyle kayalık tepelerde ve derin
+        kanyonlarda, doğanın ve insanların oluşturduğu ve sayısı binlerce olan "Hasankeyf Mağaraları" bulunmaktadır.
+    </string>
+    
+    
+    
+    <string name="yol_tar_f">YOL TARİFİ</string>
+    <string name="g_r_ekrani">GİRİŞ EKRANI</string>
+    <string name="kayit_ekrani">KAYIT EKRANI</string>
+    <string name="password_reset">Şifre sıfırla</string>
+    <string name="ye_ol">Üye Ol</string>
+    <string-array name="path_walking">
+        <item>""</item>
+        <item>"KARADENİZ BÖLGESİ"</item>
+        <item>"AKDENİZ BÖLGESİ"</item>
+        <item>"MARMARA BÖLGESİ"</item>
+        <item>"EGE BÖLGESİ"</item>
+        <item>"İÇ ANADOLU BÖLGESİ"</item>
+        <item>"DOĞU ANADOLU BÖLGESİ"</item>
+        <item>"GÜNEYDOĞU ANADOLU BÖLGESİ"</item>
+    </string-array>
+
+
+
+</resources>

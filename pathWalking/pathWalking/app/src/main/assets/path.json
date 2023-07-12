@@ -1,0 +1,117 @@
+[
+  {
+    "name" : "Likya Yolu",
+    "latitude" : "36.659525",
+    "longitude" : "29.126847"
+  },
+  {
+    "name" : "Aladağlar",
+    "latitude" : "37.816666",
+    "longitude" : "35.1563673"
+  },
+
+  {
+    "name" : "Frig Vadisi",
+    "latitude" : "39.3255675",
+    "longitude" : "29.9486108"
+  },
+  {
+    "name" : "Ağrı Dağı",
+    "latitude" : "39.7024383",
+    "longitude" : "44.2887764"
+  },
+
+  {
+    "name" : "Ihlara Vadisi",
+    "latitude" : "38.254056",
+    "longitude" : "34.302742"
+  },
+  {
+    "name" : "Dilek Yarımada - Menderes Deltası",
+    "latitude" : "37.669609",
+    "longitude" : "27.183957"
+  },
+
+  {
+    "name" : "Kaçkar Dağları",
+    "latitude" : "40.8352547",
+    "longitude" : "41.1348504"
+  },
+  {
+    "name" : "Sülüklü Göl",
+    "latitude" : "38.1926743",
+    "longitude" : "33.677899"
+  },
+  {
+    "name" : "Cilo Dağı",
+    "latitude" : "37.4986102",
+    "longitude" : "43.9494225"
+  },
+  {
+    "name" : "Büyükada",
+    "latitude" : "40.850931",
+    "longitude" : "29.115327"
+  },
+  {
+    "name" : "Belemedik",
+    "latitude" : "37.350784",
+    "longitude" : "34.899871"
+  },
+  {
+    "name" : "Kapıkaya Kanyonu",
+    "latitude" : "37.243751",
+    "longitude" : "34.977591"
+  },
+  {
+    "name" : "Akdağ Zirve",
+    "latitude" : "37.962028",
+    "longitude" : "30.5096641"
+  },
+  {
+    "name" : "Ovacık Dağı",
+    "latitude" : "39.736128",
+    "longitude" : "38.9322625"
+  },
+  {
+    "name" : "Gökçeada",
+    "latitude" : "40.194052",
+    "longitude" : "25.905339"
+  },
+  {
+    "name" : "Heybeliada",
+    "latitude" : "40.873337",
+    "longitude" : "29.089375"
+  },
+
+  {
+    "name" : "Belgrad Ormanı",
+    "latitude" : "41.189474",
+    "longitude" : "28.978913"
+  },
+  {
+    "name" : "Polenezköy",
+    "latitude" : "41.1132305",
+    "longitude" : "29.2037773"
+  },
+  {
+    "name" : "Diyarbakır Surları(Kalesi)",
+    "latitude" : "37.915749",
+    "longitude" : "40.240865"
+  },
+  {
+    "name" : "Dara Antik Kenti",
+    "latitude" : "37.178188",
+    "longitude" : "40.952540"
+  },
+  {
+    "name" : "Botan Vadisi",
+    "latitude" : "37.8916231",
+    "longitude" : "41.9056422"
+  },
+  {
+    "name" : "Hasankeyf",
+    "latitude" : "37.7126579",
+    "longitude" : "41.4130211"
+  }
+
+]

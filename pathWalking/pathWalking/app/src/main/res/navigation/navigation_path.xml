@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_path"
+    app:startDestination="@id/firstPageFragment">
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="com.example.pathwalkings.view.SignInFragment"
+        android:label="fragment_sign_in"
+        tools:layout="@layout/fragment_sign_in" >
+        <action
+            android:id="@+id/action_signInFragment_to_signUpFragment"
+            app:destination="@id/signUpFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_tittleImageFragment"
+            app:destination="@id/tittleImageFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_forgotPasswordFragment"
+            app:destination="@id/forgotPasswordFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.example.pathwalkings.view.SignUpFragment"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" >
+        <action
+            android:id="@+id/action_signUpFragment_to_tittleImageFragment"
+            app:destination="@id/tittleImageFragment"
+            app:popUpTo="@id/signUpFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/tittleImageFragment"
+        android:name="com.example.pathwalkings.view.TittleImageFragment"
+        android:label="fragment_tittle_image"
+        tools:layout="@layout/fragment_tittle_image" >
+        <action
+            android:id="@+id/action_tittleImageFragment_to_descriptionPathFragment"
+            app:destination="@id/descriptionPathFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/descriptionPathFragment"
+        android:name="com.example.pathwalkings.view.DescriptionPathFragment"
+        android:label="fragment_description_path"
+        tools:layout="@layout/fragment_description_path" >
+        <argument
+            android:name="imageVPath"
+            app:argType="integer" />
+        <argument
+            android:name="heading"
+            app:argType="string" />
+        <argument
+            android:name="descrption"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_descriptionPathFragment_to_mapsFragment"
+            app:destination="@id/mapsFragment" />
+        <argument
+            android:name="camp"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/firstPageFragment"
+        android:name="com.example.pathwalkings.view.FirstPageFragment"
+        android:label="fragment_first_page"
+        tools:layout="@layout/fragment_first_page" >
+        <action
+            android:id="@+id/action_firstPageFragment_to_signInFragment"
+            app:destination="@id/signInFragment"
+            app:popUpTo="@id/firstPageFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/forgotPasswordFragment"
+        android:name="com.example.pathwalkings.view.ForgotPasswordFragment"
+        android:label="fragment_forgot_password"
+        tools:layout="@layout/fragment_forgot_password" >
+        <action
+            android:id="@+id/action_forgotPasswordFragment_to_signInFragment"
+            app:destination="@id/signInFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.example.pathwalkings.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" >
+        <argument
+            android:name="locName"
+            app:argType="string" />
+        <argument
+            android:name="latitude"
+            app:argType="float" />
+        <argument
+            android:name="longtude"
+            app:argType="float" />
+    </fragment>
+</navigation>
